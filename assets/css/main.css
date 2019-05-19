@@ -2306,7 +2306,7 @@ input, select, textarea {
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				width: 200%;
 			}
 
 		.image.left {
@@ -2338,8 +2338,7 @@ input, select, textarea {
 		}
 
 			.image.main img {
-				width: 100%;
-			}
+				}
 
 			@media screen and (max-width: 736px) {
 
