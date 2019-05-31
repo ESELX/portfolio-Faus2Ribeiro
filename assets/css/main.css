@@ -145,7 +145,7 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		text-decoration: none;
-		color: #232323;
+		color: #ffe895;
 		border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
 	}
 
@@ -3144,7 +3144,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 5em 0 6em 0 ;
+		padding: 5em 0 5em 0 ;
 		background-color: rgba(144, 144, 144, 0);
 	}
 
